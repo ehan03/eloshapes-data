@@ -1,2 +1,3 @@
 # eloshapes-data
-[WIP] Scraping data on gaming mice from EloShapes
+
+Data from [EloShapes](https://www.eloshapes.com/)
